@@ -1,0 +1,6 @@
+.gradle/2.0/taskArtifacts/
+.gradle/gradle.log
+*.ipr
+*.iws
+*.iml
+*.bin
