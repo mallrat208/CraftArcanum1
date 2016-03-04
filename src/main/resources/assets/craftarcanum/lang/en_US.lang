@@ -1,0 +1,38 @@
+itemGroup.craftarcanum=Craft Arcanum
+
+craftarcanum.hold=Hold
+craftarcanum.fordetails=for details.
+
+desc.ImmersiveEngineering.info.blueprint.craftarcanum=Craft Arcanum Drill Augments
+ie.manual.category.craftarcanum.name=Craft Arcanum
+ie.manual.entry.cadrillaugments.name=Drill Augment Blueprint
+ie.manual.entry.cadrillaugments.subtext=I ain't no Fortunate One
+ie.manual.entry.cadrillaugments0=Thinking on it... Your drill may be capable of yielding even better results when mining if you were able to find a way to control it better. You've heard talk about something called a <link;cadrillaugments;§o§nVibration §o§nDampener§r;1> that may be just what you're looking for.
+ie.manual.entry.cadrillaugments1=§lVibration §lDampeners§r are an adaptation of the <link;drill;§o§nAdvanced §o§nLubrication §o§nSystem§r;3> combined with a bit of Steel. The resulting item reduces the extreme vibrations caused by using a <link;drill;§o§nMining §o§nDrill§r>Mining Drill. This has resulted in better yields on certain ores. <br><br>This item adds the equivalent of Fortune 1 and stacks up to 3 times.
+
+item.craftarcanum.drillhead.thaumium.name=Thaumium Drill Head
+item.craftarcanum.drillhead.void.name=Void Metal Drill Head
+item.craftarcanum.drillhead.coredrill.name=Thaumaturgical Core Drill Head
+item.craftarcanum.drillupgrade.drillFortune.name=Vibration Dampeners
+item.craftarcanum.drillupgrade.drillFortune.desc=Acts as Fortune when using the Mining Drill, stacks up to 3
+
+item.craftarcanum.vox.sonitus.name=Vox Sonitu
+item.craftarcanum.vox.sonitus.desc=It echoes of a hundred songs once heard.
+item.craftarcanum.vox.sonitus.note=Note
+item.craftarcanum.vox.sonitus.instrument=Tone
+
+tc.research_category.CRAFTARCANUM=Craft Arcanum
+
+ca.research_name.THAUMIUMDRILL=Thaumaturgical Drilling
+ca.research_text.THAUMIUMDRILL=Quite a Bore
+ca.research_page.THAUMIUMDRILL.1=Industry may be paving the way for the future but that doesn't mean you can't attempt to apply some of your knowledge of Thaumaturgy to the process. <BR><BR>By creating a Drill Head out of Thaumium you are able to get slightly better mining ability.
+
+ca.research_name.VOIDDRILL=Advanced Thaumaturgical Drilling
+ca.research_text.VOIDDRILL=Even more Boring
+ca.research_page.VOIDDRILL.1=So, what if they said it wouldn't work.  Like you care. Crafting a Drill Head out of Void metal should be a fool's errand. But you... you know better.
+
+ca.research_name.COREDRILL=Thaumaturgical Core Drill
+ca.research_text.COREDRILL=You Shall Rend the Earth, Not Piece the Heavens
+ca.research_page.COREDRILL.1=You've had an inspired idea... What if you were able to imbue a Thaumium Drill head with a variation of the magic found in a Pickaxe of the Core? <BR><BR>While you have met limited success in producing Native Clusters while mining there have been some unfortunate drawbacks. Due to the mechanical nature of the Drill, you are unable to really connect with the tool and locate ores as you can with the pickaxe.
+
+
